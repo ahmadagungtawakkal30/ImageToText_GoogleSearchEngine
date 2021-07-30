@@ -12,8 +12,8 @@ hasil = tess.image_to_string(img, config=custom_config)
 print(hasil)
 print("")
 
-API_KEY = "AIzaSyAb7ObLMn44neHWgSZKFzTK8cvMpW2H6hE"
-SEARCH_ENGINE_ID = "a510342fad5b8dc72"
+API_KEY = "API KEY GOOGLE SEARCH ENGINE"
+SEARCH_ENGINE_ID = "ID GOOGLE SEARCH ENGINE"
 
 page = 1
 start = (page - 1) * 4 + 1
