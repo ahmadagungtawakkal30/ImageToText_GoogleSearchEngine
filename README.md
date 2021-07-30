@@ -1,1 +1,1 @@
-# ahmadagungtawakkalImageToText_GoogleSearchEngine
+# ImageToText_GoogleSearchEngine
