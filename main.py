@@ -3,6 +3,7 @@ import cv2
 import pytesseract as tess
 
 #tess.pytesseract.tesseract_cmd = r'C:\Users\ahmad\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
+#opsi jika menggunakan library manual
 namagambar = "Enter name your picture book : "
 img = cv2.imread(input(namagambar))
 print("")
